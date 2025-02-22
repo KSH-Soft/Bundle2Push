@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/KSH-Soft/RENYLAND_Cache_Restorer/refs/heads/main/GUI.png" alt="GUI" width="400px">
+<img src="https://github.com/KSH-Soft/Bundle2Push/blob/main/b2p-gui/ui1.PNG" alt="GUI" width="400px">
 </p>
 
 <h2 id="tech">💻 Technologies</h2>
