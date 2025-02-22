@@ -21,6 +21,11 @@
 <p align="center">
 
 <img src="https://github.com/KSH-Soft/Bundle2Push/blob/main/b2p-gui/ui1.PNG" alt="GUI" width="400px">
+<img src="https://github.com/KSH-Soft/Bundle2Push/blob/main/b2p-gui/ui2.PNG" alt="GUI" width="400px">
+<img src="https://github.com/KSH-Soft/Bundle2Push/blob/main/b2p-gui/ui3.PNG" alt="GUI" width="400px">
+<img src="https://github.com/KSH-Soft/Bundle2Push/blob/main/b2p-gui/ui4.PNG" alt="GUI" width="400px">
+<br>
+<img src="https://github.com/KSH-Soft/Bundle2Push/blob/main/b2p-gui/Manual.PNG" alt="GUI" width="400px">
 </p>
 
 <h2 id="tech">💻 Technologies</h2>
