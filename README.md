@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center">Bundle2Push, également connu sous le nom de B2P, a été l'un des plus grands projets que j'ai mené en solo. Après avoir travaillé sur OctoPush et BundlePush, je réalisais qu'ils manquaient tous deux d'une interface intuitive et pratique, ce qui limitait leur adoption et leur efficacité. Déterminé à combler cette lacune, j'ai profité de deux semaines de congés pour me plonger dans le développement d'un nouvel outil, un projet ambitieux qui, je le savais, allait transformer notre façon de gérer les mises à jour annuelles et la maintenance quotidienne.</p>
+<p align="center">Bundle2Push, également connu sous le nom de B2P, a été l'un des plus grands projets que j'ai mené en solo. Après avoir travaillé sur des logiciels similaires assez bridé, ce qui limitait leur adoption et leur efficacité. Déterminé à combler cette lacune, j'ai profité de deux semaines de congés pour me plonger dans le développement d'un nouvel outil, un projet ambitieux qui, je le savais, allait transformer notre façon de gérer les mises à jour annuelles et la maintenance quotidienne.</p>
 
 
 <p align="center">
